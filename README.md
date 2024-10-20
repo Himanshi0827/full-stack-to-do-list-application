@@ -51,8 +51,6 @@ This is a full-stack to-do list application developed as part of a pre-screening
    ```bash
    npm start
    ```
-## Video Demo
-Check out the [video demo](https://your-demo-link) for a walkthrough of the application.
 
 
 ### Technologies
