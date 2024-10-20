@@ -8,7 +8,7 @@ This is a full-stack to-do list application developed as part of a pre-screening
 - **Frontend:** React.js (or Next.js), Tailwind CSS for styling.
 - **Backend:** Node.js, Express.js, MongoDB for database integration.
 - **Authentication:** JSON Web Tokens (JWT).
-- **Deployment Platforms:** Vercel for the frontend and Heroku/Render for the backend.
+- **Deployment Platforms:** Netlify  for the frontend and Render for the backend.(https://himanshi-todoapp.netlify.app/login)(https://backend-todo-npkz.onrender.com)
 
 ---
 
@@ -35,9 +35,7 @@ This is a full-stack to-do list application developed as part of a pre-screening
 ### Setup Instructions
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/fullstack-todo-app.git
-   ```
+  
 
 2. Navigate to the frontend directory:
    ```bash
@@ -53,6 +51,9 @@ This is a full-stack to-do list application developed as part of a pre-screening
    ```bash
    npm start
    ```
+## Video Demo
+Check out the [video demo](https://your-demo-link) for a walkthrough of the application.
+
 
 ### Technologies
 - **React.js:** Frontend library for building user interfaces.
