@@ -68,11 +68,6 @@ Make sure MongoDB is running locally or that you've set up a remote connection u
 
 ---
 
-## Video Demo
-Check out the [video demo](https://your-demo-link) for a walkthrough of the application.
-
----
-
 ## Conclusion
 This project helped in understanding:
 1. Connecting the frontend and backend using APIs.
